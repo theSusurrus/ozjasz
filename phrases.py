@@ -1,0 +1,11 @@
+list1 = ["Słuchajcie Państwo:", "Trzeba to powiedzieć:", "Powiedzmy wyraźnie:", "Nikt nie może zaprzeczyć:", "Ja tylko Państwu przypomnę -", "Powiem to wyraźnie:", "Ktoś to musi powiedzieć -", "Jak zwylke prawda wychodzi na jaw, bo", "Powtórzę raz jeszcze:", "Trzeba powiedzieć jasno:", "Ja chciałem Państwu przypomnieć:"]
+
+list2 = ["te bezczelne lewaki", "agenci bezpieki", "tak zwani ekolodzy", "feminazistki", "ci chorzy geje", "ekonaziści", "babilońskie nierządnice", "niemieckie prostytutki z syfilisem", "europejskie gumisie", "neonazistowskie niemowlaki z alzheimerem", "ci komunistyczni idioci", "funkcjonariusze reżymowej telewizji", "komunistyczni krwiopijcy", "bezsilni opozycjoniści", "każdy kij ma dwa końce","te jebane lewaki","ci prounijni skurwiele","te tak zwane feministki"]
+
+list3 = ["zupełnie bezkarnie", "kompletnie bezczelnie", "absolutnie niedorzecznie", "śpiewając \"boże coś polskę\"", "maczając języki w krwi niewinnych", "krusząc mury rozsądku", "z pełną premedytacją", "bez mrugnięcia okiem", "celowo i świadomie", "bez zastanowienia", "zakładając komunistyczną jarmułkę", "plując nam w twarz", "śmiejąc nam się w twarz", "kłamiąc w żywe oczy"]
+
+list4 = ["nawołują do podniesienia podatków", "atakują naszą wolność", "kłamią w żywe oczy", "masturbują wyobraźnię mas", "kopulują na grobie demokracji", "srają na polskie dziedzictwo", "zakazują posiadania broni", "nie dopuszczają prawicy do władzy", "niszczą polskie tradycje", "atakują wolny rynek", "produkują macę z procesorów"]
+
+list5 = ["bo głupich jest więcej niż mądrych", "bo myślą że tworzą raj na ziemi", "bo chcą niszczyć cywilizację białego czlowieka", "bo nie ma wody na pustyni", "bo bez tego demokracja (tfu!) nie może istnieć", "skupując katolickie kamienice"]
+
+list6 = ["i dlatego Polska umiera.", "- proszę zobaczyć, to się dzieje na Zahodzie, jeśli mi Państwo nie wierzą", "i dlatego bóg nas opuścił", "i dlatego nie będzie pałacu", "i dlatego nie ma budulca dla wiary", "- kto nie widział niech nie pierdoli", "- tak samo było za Hitlera", "niszcząc nas stalinizmem"]
