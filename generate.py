@@ -27,7 +27,11 @@ def protocol_1_percent(phrase, speed, speak=True):
         engine.runAndWait()
         engine.stop()
 
-protocol_1_percent(phrase="Aktywowano protokół jeden procent...", speed=150, speak=False)
-for i in range(10):
-    protocol_1_percent(phrase=construct_sentence(), speed=150, speak=False)
+if __name__ == "__main__":
+    protocol_1_percent(phrase="Aktywowano protokół jeden procent...", speed=150, speak=False)
+    with open("korwinizmy.txt", "wb") as f:
+        for i in range(1000):
+            phrase=construct_sentence()
+            f.write((phrase + '\r\n').encode('utf8'))
+            protocol_1_percent(phrase=phrase, speed=150, speak=False)
     
